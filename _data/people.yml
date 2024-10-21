@@ -2,12 +2,11 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
-    github: xiaohang007
+    display_name: "王培吉  Peiji Wang"
+    github: poorguylamar
     role: faculty
     image: /img/people/hang.jpg
     bio: 助理教授  Assistant Professor
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
 
 scott:
     display_name: "Scott Summers"
@@ -27,7 +26,7 @@ wolverine:
 
     
 bizhu:
-    display_name: "张碧竹 Bizhu Zhang"
+    display_name: "金韩坤 Hankun Jing"
     role: grad
     image: /img/people/bizhu.jpg
 
